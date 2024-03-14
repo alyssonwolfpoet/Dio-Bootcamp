@@ -1,0 +1,32 @@
+#1 História da Web
+1 Apresentação do Curso e Professor https://youtu.be/xcRDWsMyqck
+2 Primeiros Computadores https://youtu.be/b-9BxYdUg9o
+3 Como Surgiu https://youtu.be/8NeikRc_89s
+4 Grandes Nomes https://youtu.be/YKBhQligUiY
+
+#2 O que são Clients
+1 Cliente no Linguajar Web https://youtu.be/Rh15h1TVdFI
+2 Navegadores https://youtu.be/zfFH63LQFo4
+3 Aplicações Web https://youtu.be/mQk01hBsdRM
+4 Dispositivos Móveis https://youtu.be/6rhBVxI02pQ
+
+#3 O que são Servers
+1 Sobre Servidores https://youtu.be/Tr7eLpKwqjA
+2 Hardwares e Softwares em Servidores https://youtu.be/xWS5wWPZKHk
+3 Tipos de Servidores https://youtu.be/vV_yX6Z3Ki4
+4 Hospedagem de Sites https://youtu.be/7r5NWiPPS70
+
+#4 Linguagens de Programação
+1 O que é https://youtu.be/ZOPWslZDfmY
+2 Server-Side https://youtu.be/0mBkYQERUjc
+3 Client-Side https://youtu.be/LfECQ4J5G4U
+4 HTML não é Linguagem de Programação https://youtu.be/bGnFTYm0W94
+
+#5 Materiais de Apoio e Questionário
+Materiais de Apoio
+ 
+Slides
+A apresentação completa utilizada neste módulo está disponível AQUI https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EWgg3UxUJt1GhLwXu6Z0L1cB7EhiHOoMQ-8vECmYXzDwYA?e=KTRDY4
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink

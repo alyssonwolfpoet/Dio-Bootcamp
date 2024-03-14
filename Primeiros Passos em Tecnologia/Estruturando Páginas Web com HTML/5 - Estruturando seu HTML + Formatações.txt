@@ -1,0 +1,18 @@
+#1 Estruturando seu HTML + Formatações 
+
+1 Apresentação https://youtu.be/dM_6tiTfFfg
+2 Formatando Textos - Parte 1 https://youtu.be/YoLumYA9Lx4
+3 Formatando Textos - Parte 2 https://youtu.be/SNYkP92vUJs
+4 Div e Span https://youtu.be/x1FwG_X7_wI
+5 Fieldsets https://youtu.be/IOoFwtm6zeU
+6 Embeds https://youtu.be/83JTVs_sEMY
+7 Iframes https://youtu.be/hYNX8OUGs1E
+8 Resenha Sobre Cores https://youtu.be/ZGXRcUP9758
+
+#Materiais de Apoio
+ 
+Slides
+A apresentação completa utilizada neste módulo está disponível AQUI https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EcClRvAldKJBu2rCDB4BTVIBcuVNvt_Ea-cGxD5UDhxGww?e=v2E2tH
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink

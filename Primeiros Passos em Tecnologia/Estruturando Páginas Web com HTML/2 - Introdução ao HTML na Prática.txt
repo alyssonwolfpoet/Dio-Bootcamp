@@ -1,0 +1,20 @@
+#1 Introdução ao HTML na Prática
+1 Apresentando o Curso https://youtu.be/Ry3sPakp2og
+2 Ferramentas Utilizadas https://youtu.be/JqSMykiL-5s 
+3 Inspetor de Elementos https://youtu.be/nXkyb56u4rY
+4 Estrutura Básica do HTML https://youtu.be/31DFy0dCVZM
+5 Falando sobre Tags https://youtu.be/wjtvaUMJkqs
+6 Atributos das Tags https://youtu.be/ce12fj7z1pI
+7 Textos https://youtu.be/AAL6IJ_VdmI
+8 Listas Ordenadas e Não Ordenadas https://youtu.be/9lEi6Agc_no
+9 Links https://youtu.be/nQJCSI9gTPI
+
+#2 Materiais de Apoio
+ 
+Slides
+A apresentação completa utilizada neste módulo está disponível AQUI https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EUBD7085ULpApq4i1_8fWfMBhVJQMyxt2K_d1sJOhRUN_w?e=vk37t3 
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink
+
+ 

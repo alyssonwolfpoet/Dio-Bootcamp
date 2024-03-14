@@ -1,0 +1,16 @@
+#1 Criando Tabelas
+
+1 Sobre Tabelas https://youtu.be/Klju2SqBSpo
+2 Tag table https://youtu.be/XIK-kkhf5iY
+3 Tag tr https://youtu.be/6lrh2c-qidQ
+4 Tag td e th https://youtu.be/Bq0_T45B_Xk
+5 Tag tbody, thead e tfoot https://youtu.be/ieMve8imq-w
+6 Estilizando Tabelas https://youtu.be/5D59rdgrn78
+
+#2 Materiais de Apoio
+ 
+Slides
+A apresentação completa utilizada neste módulo está disponível AQUI https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/ESjerZza7MZGm5E35V0xPc0BbOdQ-KvUqVNzsNGgyFJhlw?e=BwHo6k
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink
