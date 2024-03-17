@@ -1,0 +1,45 @@
+#1 Pensamento computacional
+1 Apresentação https://youtu.be/klMG2wPD8gQ
+2 Introdução https://youtu.be/QXxb5NS0O3k
+3 Habilidade complementares https://youtu.be/fGRo_8fcCvQ
+4 Pilares: Decomposição https://youtu.be/VYj25lXDFO4
+5 Pilares: Padrões https://youtu.be/ZlFALk5Eths
+6 Pilares: Abstração https://youtu.be/6oEbiKyA1c0
+7 Pilares: Algoritmos
+8 Estudo de caso conceitual: perdido
+9 Estudo de caso aplicado: Soma de um intervalo
+10 Estudo de caso aplicado: Adivinhe um número
+
+#2 Introdução à lógica de programação
+1 O que é lógica?
+2 Técnicas de lógica de programação
+
+#3 Fundamentos de algoritmos
+1 Tipologia e variáveis
+2 Instruções primitivas
+3 Estruturas condicionais e operadores
+4 Estruturas de repetição
+5 Vetores e matrizes
+6 O que são funções?
+7 Instruções de entrada/saída
+
+#4 Linguagens de programação
+1 Introdução à linguagens de programação
+2 Como um computador entende o programa?
+3 Características de um programa
+4 Análises de código
+5 Paradigmas de programação
+
+#5 Primeiro contato com a programação
+1 Algoritmos em portugol
+2 Considerações finais
+
+Materiais de Apoio
+
+ 
+Slides
+
+A apresentação completa utilizada durante o curso está disponível AQUI https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view?usp=sharing
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink
