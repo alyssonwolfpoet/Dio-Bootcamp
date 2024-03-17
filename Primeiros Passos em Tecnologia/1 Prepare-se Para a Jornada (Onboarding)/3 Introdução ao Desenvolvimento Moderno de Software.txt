@@ -1,0 +1,24 @@
+#1 Introdução ao Desenvolvimento Moderno de Software
+1 Introdução https://youtu.be/B24tZ4ePcQA
+2 UX/UI Designer https://youtu.be/4fKe0uxy8JE
+3 Front End https://youtu.be/NTB7l0JpEkw
+4 Framework https://youtu.be/xQA_Qzpyf1w
+5 Back End https://youtu.be/AkoX-GZ5lro
+6 Full Stack https://youtu.be/pOmJyPZpKcw
+7 QA https://youtu.be/T_Xu_TSu_5w
+8 Infraestrutura https://youtu.be/qw0N8AZ-Lwc
+9 Cloud https://youtu.be/Ntw-AmHBP_8
+10 Mobile https://youtu.be/8XUm53R9q8o
+11 Conclusão https://youtu.be/Rh2J5ENXlio
+
+2# Materiais Complementares
+Materiais de Apoio
+ 
+Slides
+
+A apresentação completa utilizada neste módulo está disponível AQUI https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?e=XYsmFR
+Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
+
+Bons estudos! wink
+
+ 
